@@ -1,0 +1,15 @@
+{
+    "name": "FastAnimations",
+    "version": "1.0.0",
+    "description": "Speeds up card plays, enemy turns, and UI transitions in Slay the Spire 2",
+    "author": "Community Mod",
+    "website": "",
+    "gameVersion": "0.1.0",
+    "dependencies": [],
+    "settings": {
+        "animationSpeedMultiplier": 2.5,
+        "fastEnemyTurns": true,
+        "skipBattleIntro": true,
+        "instantCardRewards": false
+    }
+}
